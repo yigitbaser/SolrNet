@@ -37,3 +37,4 @@ The results object will include:
 The returned tag corresponds to <em> although it can be configured directly in Solr to use a different tag. Also, if the request handler in Solr is configured to include highlights, it is not required to add the query options.
 
 For more details about this feature, see the [Solr wiki](http://wiki.apache.org/solr/HighlightingParameters) and the [reference guide](https://cwiki.apache.org/confluence/display/solr/Highlighting).
+This is the second change that I do in new documentation
