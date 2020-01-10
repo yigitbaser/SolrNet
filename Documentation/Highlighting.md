@@ -1,5 +1,5 @@
 # Highlighting
-
+I am changing here to see the test branch
 This feature will "highlight" (typically with markup) the terms that matched the query, including a snippet of the text around the matched term. 
 
 To enable highlighting please include a HighlightingParameters QueryOptions object where you include which fields you want to apply highlighting to.
