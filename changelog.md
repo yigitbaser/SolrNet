@@ -1,4 +1,7 @@
 # Change Log
+
+This is commit first
+And this is the second that I will amend with the firstS
 ## 1.0.19 (2019-11-21)
 - Support overriding the default wt=xml parameter in order to support JSON response. #509 (@LCHarold)
 
