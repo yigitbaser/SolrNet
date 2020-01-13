@@ -29,6 +29,7 @@ extraParams.Add("f.features.hl.fragsize", "250");
 ```
 
 The results object will include:
+The results object will include:this is the new one I deleted after I added
 - A Highlights property which is an IDictionary<string, SolrNet.Impl.HighlightedSnippets>. 
 - The string corresponds to the document uniquekey
 - The HighlightedSnippets is an IDictionary<string, ICollection<string>>. This object indicates which field is being returned, for example "features" and the snppet text "<em>Noise</em>Guard, SilentSeek technology, Fluid Dynamic Bearing (FDB) motor" 
